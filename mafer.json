@@ -1,0 +1,28 @@
+{
+    "apiName" : " mafer " ,
+    "origin" : " Queretaro " ,
+    "created" : 2022 ,
+    "figures" :[
+        {
+            "id" : 1 ,
+            "figure" : " https://drive.google.com/uc?export=view&id=1LJHzqwER6tzfFRFpN93hT3FtdfZaBIOU "
+        },
+        {
+            "id" : 2 ,
+            "figure" : " https://drive.google.com/uc?export=view&id=1H4GgIOV2jHtL9ZMw4cUojaLSpBaGpS0T "
+        },
+        {
+            "id" : 3 ,
+            "figure" : " https://drive.google.com/uc?export=view&id=1f_GkxUJqPKccEF6OuhdD5JmoUpDEix2j "
+        },
+        {
+            "id" : 4 ,
+            "figure" : " https://drive.google.com/uc?export=view&id=1OP5kCDlx9IwUc-0loTDoEtaUxR6PHnbQ "
+        },
+        {
+            "id" : 5 ,
+
+            "figure" : " https://drive.google.com/uc?export=view&id=1syBu_f9wXH9-ilnlW8Hxn_AFNDhuqe7d "
+        }
+    ]
+}
